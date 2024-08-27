@@ -21,7 +21,9 @@ tina.right(120)
 # Make each side of the triangle a different color with 
 # tina.pencolor()
 
+
 ... # Your code here
 
+# MOre foobar
 
 turtle.exitonclick()                    # Close the window when we click on it
